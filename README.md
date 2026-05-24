@@ -38,7 +38,7 @@ Ubicado en la carpeta `/tp1`, este trabajo aborda los pilares fundamentales del 
 ## 🚀 Cómo utilizar este repositorio
 Cada archivo `.ipynb` puede ser ejecutado directamente en **Google Colab** o de forma local utilizando Jupyter:
 
-1. Clonar el repositorio: `git clone https://github.com/SebaB29/TeoriaDeAlgoritmos.git`
+1. Clonar el repositorio: `git clone https://github.com/SebaB29/teoria-de-algortimos.git`
 2. Abrir los notebooks en tu entorno preferido.
 
 ---
