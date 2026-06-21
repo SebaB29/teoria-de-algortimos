@@ -1,0 +1,35 @@
+Archivo procesado: test_data/00_contraejemplo.txt
+Cota B: 10 | Elementos evaluados (n): 3
+Suma obtenida: 10
+Tiempo de ejecución: 0.0081 ms
+
+Archivo procesado: test_data/100.txt
+Cota B: 18112 | Elementos evaluados (n): 100
+Suma obtenida: 18106
+Tiempo de ejecución: 0.0225 ms
+
+Archivo procesado: test_data/1000.txt
+Cota B: 204574 | Elementos evaluados (n): 1000
+Suma obtenida: 204574
+Tiempo de ejecución: 0.1389 ms
+
+Archivo procesado: test_data/10000.txt
+Cota B: 2009388 | Elementos evaluados (n): 10000
+Suma obtenida: 2009388
+Tiempo de ejecución: 1.6128 ms
+
+Archivo procesado: test_data/500.txt
+Cota B: 98286 | Elementos evaluados (n): 500
+Suma obtenida: 98286
+Tiempo de ejecución: 0.0715 ms
+
+Archivo procesado: test_data/5000.txt
+Cota B: 1003147 | Elementos evaluados (n): 5000
+Suma obtenida: 1003147
+Tiempo de ejecución: 0.7520 ms
+
+Archivo procesado: test_data/50000.txt
+Cota B: 10001522 | Elementos evaluados (n): 50000
+Suma obtenida: 10001522
+Tiempo de ejecución: 9.1963 ms
+

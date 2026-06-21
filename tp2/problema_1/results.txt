@@ -1,0 +1,72 @@
+Archivo procesado: ofertas_0_enunciado.csv
+Estado de la solucion: Optimal
+--------------------------------------------------
+Ofertas aceptadas:
+ - Cliente: A | Oferta: 1 | Valor: USD 50000 | Paradas: 30
+ - Cliente: B | Oferta: 1 | Valor: USD 100000 | Paradas: 80
+ - Cliente: C | Oferta: 1 | Valor: USD 100000 | Paradas: 75
+ - Cliente: E | Oferta: 1 | Valor: USD 5000 | Paradas: 2
+--------------------------------------------------
+Beneficio Maximo Obtenido: USD 255000.0
+Cantidad total de paradas: 187 / 200
+Tiempo de ejecucion: 0.612311 segundos
+
+Archivo procesado: ofertas_10.csv
+Estado de la solucion: Optimal
+--------------------------------------------------
+Ofertas aceptadas:
+ - Cliente: C | Oferta: 1 | Valor: USD 100000 | Paradas: 75
+ - Cliente: D | Oferta: 1 | Valor: USD 80000 | Paradas: 50
+ - Cliente: F | Oferta: 1 | Valor: USD 40000 | Paradas: 20
+ - Cliente: H | Oferta: 1 | Valor: USD 30000 | Paradas: 15
+ - Cliente: I | Oferta: 1 | Valor: USD 70000 | Paradas: 40
+--------------------------------------------------
+Beneficio Maximo Obtenido: USD 320000.0
+Cantidad total de paradas: 200 / 200
+Tiempo de ejecucion: 0.016872 segundos
+
+Archivo procesado: ofertas_25.csv
+Estado de la solucion: Optimal
+--------------------------------------------------
+Ofertas aceptadas:
+ - Cliente: E | Oferta: 1 | Valor: USD 5000 | Paradas: 2
+ - Cliente: F | Oferta: 1 | Valor: USD 40000 | Paradas: 20
+ - Cliente: I | Oferta: 1 | Valor: USD 15000 | Paradas: 5
+ - Cliente: K | Oferta: 1 | Valor: USD 45000 | Paradas: 22
+ - Cliente: N | Oferta: 1 | Valor: USD 25000 | Paradas: 12
+ - Cliente: Q | Oferta: 1 | Valor: USD 40000 | Paradas: 20
+ - Cliente: R | Oferta: 1 | Valor: USD 60000 | Paradas: 30
+ - Cliente: S | Oferta: 1 | Valor: USD 30000 | Paradas: 15
+ - Cliente: T | Oferta: 1 | Valor: USD 22000 | Paradas: 10
+ - Cliente: U | Oferta: 1 | Valor: USD 48000 | Paradas: 24
+ - Cliente: V | Oferta: 1 | Valor: USD 52000 | Paradas: 26
+ - Cliente: X | Oferta: 1 | Valor: USD 28000 | Paradas: 14
+--------------------------------------------------
+Beneficio Maximo Obtenido: USD 410000.0
+Cantidad total de paradas: 200 / 200
+Tiempo de ejecucion: 0.021237 segundos
+
+Archivo procesado: ofertas_50.csv
+Estado de la solucion: Optimal
+--------------------------------------------------
+Ofertas aceptadas:
+ - Cliente: E | Oferta: 1 | Valor: USD 5000 | Paradas: 2
+ - Cliente: I | Oferta: 1 | Valor: USD 25000 | Paradas: 12
+ - Cliente: T | Oferta: 1 | Valor: USD 22000 | Paradas: 10
+ - Cliente: AA | Oferta: 1 | Valor: USD 33000 | Paradas: 16
+ - Cliente: AB | Oferta: 1 | Valor: USD 47000 | Paradas: 23
+ - Cliente: AC | Oferta: 1 | Valor: USD 27000 | Paradas: 13
+ - Cliente: AD | Oferta: 1 | Valor: USD 19000 | Paradas: 9
+ - Cliente: AF | Oferta: 1 | Valor: USD 39000 | Paradas: 19
+ - Cliente: AG | Oferta: 1 | Valor: USD 29000 | Paradas: 14
+ - Cliente: AH | Oferta: 1 | Valor: USD 21000 | Paradas: 10
+ - Cliente: AI | Oferta: 1 | Valor: USD 37000 | Paradas: 18
+ - Cliente: AJ | Oferta: 1 | Valor: USD 23000 | Paradas: 11
+ - Cliente: AL | Oferta: 1 | Valor: USD 31000 | Paradas: 15
+ - Cliente: AO | Oferta: 1 | Valor: USD 17000 | Paradas: 8
+ - Cliente: AW | Oferta: 1 | Valor: USD 41000 | Paradas: 20
+--------------------------------------------------
+Beneficio Maximo Obtenido: USD 416000.0
+Cantidad total de paradas: 200 / 200
+Tiempo de ejecucion: 0.019741 segundos
+
