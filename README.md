@@ -33,6 +33,12 @@ Ubicado en la carpeta `/tp1`, este trabajo aborda los pilares fundamentales del 
 * **Foco:** Diseño de algoritmos desde cero y análisis de complejidad teórica.
 * [Ver detalle del TP1 aquí](./tp1/README.md)
 
+### 🕸️ TP2: Programación Lineal, Flujos y Complejidad
+Ubicado en la carpeta `/tp2`, este trabajo práctico profundiza en el modelado avanzado de problemas y la experimentación empírica.
+* **Desafíos:** Modelado con Programación Lineal (LP), Redes de Flujo, análisis de algoritmos específicos y generación de métricas de rendimiento.
+* **Foco:** Implementación práctica en Python (`numpy`, `networkx`), experimentación con sets de datos de prueba y visualización de resultados mediante gráficos.
+* [Ver detalle del TP2 aquí](./tp2/README.md)
+
 ---
 
 ## 🚀 Cómo utilizar este repositorio
